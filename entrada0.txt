@@ -1,0 +1,7 @@
+4
+20
+10 5
+2 2
+
+zangief 10 2 4 0 4
+youshimitsu 100 2 2 7 1

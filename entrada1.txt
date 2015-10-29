@@ -1,0 +1,13 @@
+1
+20
+10 5
+2 2
+100
+
+zangief 100 2 4 0 4
+youshimitsu 2 2 2 7 1
+pepe 100 1 1 1 1
+
+dhalsim 58 3 3 0 4
+hugo 1 4 5 3 2
+
